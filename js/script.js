@@ -88,6 +88,7 @@ $('#movie-list').on('click','.see-detail', function(){
                             <li class ="list-group-item">Actors : `+ movie.Actors +`</li>
                             <li class ="list-group-item">Language : `+ movie.Language +`</li>
                             <li class ="list-group-item">Country : `+ movie.Country +`</li>
+                            <li class ="list-group-item">Awards : `+ movie.Awards +`</li>
                             
                         
                         </ul>
